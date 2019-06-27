@@ -1,5 +1,0 @@
-<git init  <directory>
-cd /path/to/code \
-git init \
-git add . \
-git commit
